@@ -1,0 +1,9 @@
+spring:
+  rabbitmq:
+    host: 172.16.0.88
+    username: mqadmin
+    password: mqadmin
+    virtual-host: s
+    addresses: amqp://172.16.0.86:5672,amqp://172.16.0.86:5672,amqp://172.16.0.85:5672
+server:
+  port: 8091
