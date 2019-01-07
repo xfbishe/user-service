@@ -6,7 +6,6 @@
 
     <groupId>org.sd.user</groupId>
     <artifactId>user-service</artifactId>
-    <packaging>pom</packaging>
     <version>0.0.1</version>
    
     <parent>
