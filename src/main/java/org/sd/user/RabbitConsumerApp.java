@@ -17,5 +17,8 @@ public class RabbitConsumerApp {
 
     public static void main(String[] args) {
         SpringApplication.run(RabbitConsumerApp.class, args);
+
     }
+
+
 }
